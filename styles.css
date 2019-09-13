@@ -1,0 +1,25 @@
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  article {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  center {
+      color: purple;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 20pt
+  }
+  h3 {
+      color: aqua;
+      font-size: 15pt;
+  }
+  body {
+      background-color: darksalmon;
+  }
